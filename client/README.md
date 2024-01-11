@@ -1,7 +1,7 @@
 > Full Stack - App Store Build - Reactjs, Firebase Functions
 > [Follow Us] (https://codewithvetri.web.app)
 
-![This is the Project Thumbnail](./snap.png)
+![This is the Project Thumbnail](../snap.png)
 
 # To check the node version
 
